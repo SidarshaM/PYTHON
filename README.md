@@ -2,11 +2,13 @@
 Python
 Python is a programming language widely used by Data Scientists.
 Python has in-built mathematical libraries and functions, making it easier to calculate mathematical problems and to perform data analysis.
+
+
 Python Libraries
 Pandas - This library is used for structured data operations, like import CSV files, create dataframes, and data preparation
 Numpy - This is a mathematical library. Has a powerful N-dimensional array object, linear algebra, Fourier transform, etc.
 Matplotlib - This library is used for visualization of data.
-SciPy - This library has linear algebra modules
+
 Data Analysis with Python 
 Data Analysis is the technique of collecting, transforming, and organizing data to make future predictions and informed data-driven decisions. It also helps to find possible solutions for a business problem. There are six steps for Data Analysis. They are: 
 •	Ask or Specify Data Requirements
@@ -15,8 +17,12 @@ Data Analysis is the technique of collecting, transforming, and organizing data 
 •	Analyze
 •	Share
 •	Act or Report
+
+
 What is Exploratory Data Analysis?
 Exploratory Data Analysis is an approach to data analysis outlining features of the data, testing assumptions, and checking for anomalies before formal modelling. It's about visualizing, summarizing and interpreting the information hidden in rows and columns of data.
+
+
 Data Set
 The dataset from ABC company, consisting of 458 rows and 9 columns. The company requires a comprehensive report detailing information about their employees across various teams. The dataset contains the following columns:
 •	Name: Employee name.
@@ -28,6 +34,7 @@ The dataset from ABC company, consisting of 458 rows and 9 columns. The company 
 •	Weight: Employee weight in numeric form.
 •	College: College attended (with missing values).
 •	Salary: Employee salary (with some missing values).
+
 The analysis process includes data preprocessing, statistical analysis, and graphical representations to communicate findings effectively.
 
 Objectives
