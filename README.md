@@ -1,3 +1,8 @@
+# Employee Data Analysis – ABC Company 
+Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA, Visualization
+
+
+
 # PYTHON
 Python
 Python is a programming language widely used by Data Scientists.
